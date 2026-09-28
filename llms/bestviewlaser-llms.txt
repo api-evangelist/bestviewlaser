@@ -1,0 +1,45 @@
+# BVLASER
+
+> BVLASER is a leading world-class manufacturer of medical aesthetic laser equipment that provides ODM&OEM services, with high-end recognized technologies as diode laser, CO2 laser, picosecond laser, etc. Now BVLASER has developed comprehensive R&D centers, manufacturing, certificate identification, sale, service and distribution strategy.
+
+## Website Language Versions
+- [English](https://www.bvlaser.com): BVLASER-Global Leading Medical Aesthetic Laser Manufacturer
+- [Spanish](https://es.bvlaser.com): BVLASER - Fabricante de máquinas láser estética médica
+
+## Website Navigation
+- [About BVLASER](https://www.bvlaser.com/index.html): About BVLASER
+- [Smart Manufacturing](https://www.bvlaser.com/smart-manufacturing.html): Smart Manufacturing
+- [R&D Center](https://www.bvlaser.com/bv-r-d-center): R&D Center
+- [Solutions](https://www.bvlaser.com/solutions.html): Solutions
+    - [Optoelectronic Skincare](https://www.bvlaser.com/optoelectronic-skincare.html): Optoelectronic Skincare
+        - [User Perspective-Focused](https://www.bvlaser.com/user-perspective-focused.html): User Perspective-Focused
+        - [Institution Empowerment-Focused](https://www.bvlaser.com/institution-empowerment-focused.html): Institution Empowerment-Focused
+        - [Technology-Focused](https://www.bvlaser.com/technology-focused.html): Technology-Focused
+    - [Technologies](https://www.bvlaser.com/technologies.html): Technologies
+        - [Diode Laser](https://www.bvlaser.com/diode-laser.html): Diode Laser
+        - [Picosecond Laser](https://www.bvlaser.com/picosecond-laser.html): Picosecond Laser
+        - [IPL](https://www.bvlaser.com/ipl-technology.html): IPL
+        - [Fractional Laser](https://www.bvlaser.com/fractional-laser.html): Fractional Laser
+        - [Long Pulsed Laser](https://www.bvlaser.com/long-pulsed-laser.html): Long Pulsed Laser
+    - [Solutions of Skin Problems](https://www.bvlaser.com/treatment-of-skin-problems.html): Solutions of Skin Problems
+        - [Hair Remvoal Solutions](https://www.bvlaser.com/hair-remvoal-solutions.html): Hair Remvoal Solutions
+        - [Dry Eye Syndrome Solutions](https://www.bvlaser.com/dry-eye-syndrome-solutions.html): Dry Eye Syndrome Solutions
+        - [Skin Regeneration Solutions](https://www.bvlaser.com/skin-regeneration-solutions.html): Skin Regeneration Solutions
+        - [Pigmentation Treatment](https://www.bvlaser.com/pigmentation-treatment.html): Pigmentation Treatment
+        - [Acne Treatment](https://www.bvlaser.com/acne-treatment.html): Acne Treatment
+        - [Scar Treatment](https://www.bvlaser.com/scar-treatment.html): Scar Treatment
+        - [Skin aging and Anti-aging](https://www.bvlaser.com/skin-aging-and-anti-aging.html): Skin aging and Anti-aging
+        - [Telangiectasia Treatment](https://www.bvlaser.com/telangiectasia-treatment.html): Telangiectasia Treatment
+    - [ODM&OEM Services](https://www.bvlaser.com/Service.html): ODM&OEM Services
+    - [Patents and Equipment Certificates](https://www.bvlaser.com/patents-and-equipment-certificates.html): Patents and Equipment Certificates
+- [Events](https://www.bvlaser.com/company-news.html): Events
+
+## Product Category
+- [Thulium Laser & Erbium Laser](https://www.bvlaser.com/thulium-laser.html): Thulium Laser & Erbium Laser
+- [OPT IPL Machine](https://www.bvlaser.com/opt-ipl-machine.html): OPT IPL Machine
+- [BBL Machine](https://www.bvlaser.com/bbl-machine.html): BBL Machine
+- [Blue Laser 450nm](https://www.bvlaser.com/blue-laser-450nm-machine.html): Blue Laser 450nm
+- [CO2 Fractional Laser System](https://www.bvlaser.com/co2-plastical-surgery-system.html): CO2 Fractional Laser System
+- [Laser Tattoo Removal System](https://www.bvlaser.com/tattoo-removal-system.html): Laser Tattoo Removal System
+- [Laser Hair Removal System](https://www.bvlaser.com/hair-removal-system.html): Laser Hair Removal System
+- [Multifunction Laser Beauty Machine](https://www.bvlaser.com/multifunction-machine.html): Multifunction Laser Beauty Machine

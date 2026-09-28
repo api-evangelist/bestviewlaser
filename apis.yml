@@ -1,23 +1,60 @@
 aid: bestviewlaser
+
 name: Bestviewlaser
-description: 'Bestviewlaser is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: 'Bestviewlaser, also known as BV Laser, is a global manufacturer of medical aesthetic laser equipment offering ODM and OEM services. The company provides advanced diode, CO2, picosecond, and other laser technologies for dermatology, dentistry, surgery, and aesthetic clinics worldwide. With a comprehensive R&D center, extensive certification (FDA, CE), and a sales network covering over 70 countries, BV Laser delivers innovative, safe, and effective laser solutions for professional practitioners.'
+
 url: https://raw.githubusercontent.com/api-evangelist/bestviewlaser/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-28 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-28'
+
 modified: '2026-09-28'
+
 tags:
 - Company
-apis: []
+- Medical
+- Aesthetic
+- Laser
+- Manufacturing
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/bestviewlaser-llms.txt
+- type: Hosts
+  url: hosts/bestviewlaser-hosts.yml
+- type: DomainSecurity
+  url: security/bestviewlaser-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/bestviewlaser
+  url: https://www.bvlaser.com
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: No public API documentation or machine‑readable contract was found for Bestviewlaser.
+  evidence:
+    - url: https://api.bvlaser.com
+      status: DNS error
+  checked: '2026-09-28'
+x-enrichment:
+  date: '2026-09-28'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
